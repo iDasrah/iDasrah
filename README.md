@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iDasrah
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on whatever web project
+- 👀 I’m interested in every type of development
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on whatever.
 - 📫 How to reach me: on instagram: @matheo.dsh, twitter: @matheo_dsh, mail: dasrah.dev@gmail.com, discord: Dasrah#0308
 
 <!---
